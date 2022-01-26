@@ -8,9 +8,11 @@ Web application project.
 - Validate number of files.
 
 ### Example code:
+```
 <javascript>
  alert('Warning')
 </javascript>
+```
 
 ### Credit:
 Created by [SanchaiCH](https://github.com/sanchaic)
